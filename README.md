@@ -50,8 +50,8 @@ So, for those that looking for new challenges, here it is, hope it helps!
 
 - [r/remotejs](https://www.reddit.com/r/remotejs/)
 
-
-Have you noticed something wrong? or Do you have any specific website that I am missing? 
-I am truly open for feedback, so feel free to contact me or directly submit a PR into the repository.
+Have you noticed something wrong? 
+Do you have other ideas that can help this document?
+I am truly open for feedback! so feel free to contact me or directly submit a PR into the repository.
 
 
