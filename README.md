@@ -12,8 +12,6 @@ So, for those that looking for new challenges, here it is, hope it helps!
 
 - [Who's hiring](https://whoishiring.io/): Love the website! It is an interative map where you can see the rate of jobs for an specific region in the map.
 
-- [Who's hiring](https://whoishiring.io/): Se puede buscar por un mapa interactivo, interesante a la hora de ver graficamente dónde son las areas mas demandantes.
-
 - [Relocate](https://relocate.me/): Specially when looking for a reloaction. 
 
 - [Remotive](https://remotive.io/): Specific for remote options.
