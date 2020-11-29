@@ -2,7 +2,7 @@
 
 This is a place where I am planning to store and collect, places where I can check for openings when looking for a new gig.
 
-So, for those that looking for new challenges, here it is, hope it helps!
+So, for those that are looking for new challenges, here it is, hope it helps!
 
 - [Linkedin](https://www.linkedin.com/jobs/): It sounds trivial or redundant, but it is one of the first places where companies post their open positions.
 
