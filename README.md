@@ -28,6 +28,8 @@ So, for those that are looking for new challenges, here it is, hope it helps!
 
 - [Working nomads](https://www.workingnomads.co/jobs)
 
+- [Smart Recruiters](https://jobs.smartrecruiters.com/)
+
 **Twitter Accounts**
 
 - [@Javascriptjobbs](https://twitter.com/Javascriptjobbs)
