@@ -4,6 +4,7 @@ This is a place where I am planning to store and collect, places where I can che
 
 So, for those that looking for new challenges, here it is, hope it helps!
 
+
 - [Linkedin](https://www.linkedin.com/jobs/): It sounds trivial or redundant, but it is one of the first places where companies post their open positions.
 
 - [Honeypot](https://www.honeypot.io/): Platform that let's you create your profile that companies can review. Only Europe.
@@ -20,6 +21,8 @@ So, for those that looking for new challenges, here it is, hope it helps!
 
 - [Weworkremotely](https://weworkremotely.com/): Specific for remote options.
 
+- [Angel](https://angel.co): For startups roles.
+
 - [dailydevjobs](https://dailydevjobs.com/)
 
 - [Hnhiring](https://hnhiring.com/)
@@ -27,6 +30,27 @@ So, for those that looking for new challenges, here it is, hope it helps!
 - [authenticjobs](https://authenticjobs.com/)
 
 - [Working nomads](https://www.workingnomads.co/jobs)
+
+- [Smart Recruiters](https://jobs.smartrecruiters.com/)
+
+- [Flexjobs](https://flexjobs.com/)
+
+- [Remote.co](https://remote.co/)
+
+- [Kust Remote](https://justremote.co/)
+
+- [Job Spresso](https://jobspresso.co/)
+
+- [Daily Remote](https://dailyremote.com)
+
+- [Js Remotely](https://jsremotely.com)
+
+- [Remote Leaf](https://remoteleaf.com)
+
+- [Remote Leads](https://remoteleads.io)
+
+- [Hired](https://hired.com)
+
 
 **Twitter Accounts**
 
@@ -43,6 +67,7 @@ So, for those that looking for new challenges, here it is, hope it helps!
 - [@WorldwideJs](https://twitter.com/WorldwideJs)
 - [@angularjobs](https://twitter.com/angularjobs)
 - [@React Jobs](https://twitter.com/42jobs_react)
+- [@VuejsJob](https://twitter.com/VuejsJob)
 
 **Subreddits**
 
