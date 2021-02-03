@@ -2,16 +2,16 @@
 
 This is a place where I am planning to store and collect, places where I can check for openings when looking for a new gig.
 
-So, for those that looking for new challenges, here it is, hope it helps!
+So, for those that are looking for new challenges, here it is, hope it helps!
 
 
 - [Linkedin](https://www.linkedin.com/jobs/): It sounds trivial or redundant, but it is one of the first places where companies post their open positions.
 
 - [Honeypot](https://www.honeypot.io/): Platform that let's you create your profile that companies can review. Only Europe.
 
-- [Stackoverflow](https://stackoverflow.com/jobs): One of my favourits, specially because of the filterings and the alert system the have.
+- [Stackoverflow](https://stackoverflow.com/jobs): One of my favourits, specially because of the filterings and the alert system they have.
 
-- [Who's hiring](https://whoishiring.io/): Love the website! It is an interative map where you can see the rate of jobs for an specific region in the map.
+- [Who's hiring](https://whoishiring.io/): Love the website! It is an interative map where you can see the rate of jobs for an specific region on the map.
 
 - [Relocate](https://relocate.me/): Specially when looking for a reloaction. 
 
