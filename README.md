@@ -51,6 +51,8 @@ So, for those that are looking for new challenges, here it is, hope it helps!
 
 - [Hired](https://hired.com)
 
+- [Remote First](https://remotefirst.digital/)
+
 
 **Twitter Accounts**
 
@@ -68,6 +70,7 @@ So, for those that are looking for new challenges, here it is, hope it helps!
 - [@angularjobs](https://twitter.com/angularjobs)
 - [@React Jobs](https://twitter.com/42jobs_react)
 - [@VuejsJob](https://twitter.com/VuejsJob)
+- [@first_remote](https://twitter.com/first_remote)
 
 **Subreddits**
 
