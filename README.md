@@ -53,6 +53,9 @@ So, for those that are looking for new challenges, here it is, hope it helps!
 
 - [Remote First](https://remotefirst.digital/)
 
+**Telegram Channels**
+
+- [NoiceJobs](https://t.me/NoiceJobs): Several Telegram groups with remote positions for different roles and seniorities. 
 
 **Twitter Accounts**
 
