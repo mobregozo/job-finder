@@ -1,61 +1,40 @@
 # Working Abroad/Remotely 
+## Looking for a new job? ## 
 
-This is a place where I am planning to store and collect, places where I can check for openings when looking for a new gig.
-
-So, for those that are looking for new challenges, here it is, hope it helps!
-
-
-- [Linkedin](https://www.linkedin.com/jobs/): It sounds trivial or redundant, but it is one of the first places where companies post their open positions.
-
-- [Honeypot](https://www.honeypot.io/): Platform that let's you create your profile that companies can review. Only Europe.
-
-- [Stackoverflow](https://stackoverflow.com/jobs): One of my favourits, specially because of the filterings and the alert system they have.
-
-- [Who's hiring](https://whoishiring.io/): Love the website! It is an interative map where you can see the rate of jobs for an specific region on the map.
-
-- [Relocate](https://relocate.me/): Specially when looking for a reloaction. 
-
-- [Remotive](https://remotive.io/): Specific for remote options.
-
-- [Remoteok](https://remoteok.io/): Specific for remote options.
-
-- [Weworkremotely](https://weworkremotely.com/): Specific for remote options.
+List of websites and social-media accounts to check when looking for a new job.
 
 - [Angel](https://angel.co): For startups roles.
-
-- [dailydevjobs](https://dailydevjobs.com/)
-
-- [Hnhiring](https://hnhiring.com/)
-
-- [authenticjobs](https://authenticjobs.com/)
-
-- [Working nomads](https://www.workingnomads.co/jobs)
-
-- [Smart Recruiters](https://jobs.smartrecruiters.com/)
-
-- [Flexjobs](https://flexjobs.com/)
-
-- [Remote.co](https://remote.co/)
-
-- [Kust Remote](https://justremote.co/)
-
-- [Job Spresso](https://jobspresso.co/)
-
+- [Authentic Jobs](https://authenticjobs.com/)
+- [Daily dev Jobs](https://dailydevjobs.com/)
 - [Daily Remote](https://dailyremote.com)
-
-- [Js Remotely](https://jsremotely.com)
-
-- [Remote Leaf](https://remoteleaf.com)
-
-- [Remote Leads](https://remoteleads.io)
-
+- [Flexjobs](https://flexjobs.com/)
 - [Hired](https://hired.com)
-
+- [Hnhiring](https://hnhiring.com/)
+- [Honeypot](https://www.honeypot.io/): A platform that lets you create your profile that companies can review. Only Europe. Totally recommend when looking for a relocation to Europe.
+- [Job Spresso](https://jobspresso.co/)
+- [Just Remote](https://justremote.co/)
+- [Js Remotely](https://jsremotely.com)
+- [Krop](https://www.krop.com/creative-jobs/): Graphic Design Jobs.
+- [Linkedin](https://www.linkedin.com/jobs/): It sounds trivial or redundant, but it is one of the first places where companies post their open positions.
+- [News Ycombinator](https://news.ycombinator.com/jobs): From Hacker News, regularly updated. 
+- [Producthunt](https://www.producthunt.com/jobs): The famous product portal has its own Job board. 
+- [Stackoverflow](https://stackoverflow.com/jobs): One of my favorites, especially because of the filterings and the alert system they have.
+- [Who's hiring](https://whoishiring.io/): Love the website! It is an interactive map where you can see the rate of jobs for a specific region on the map.
+- [Relocate Me](https://relocate.me/): Especially when looking for relocation.
+- [Remote.co](https://remote.co/)
 - [Remote First](https://remotefirst.digital/)
+- [Remote Leads](https://remoteleads.io)
+- [Remote Leaf](https://remoteleaf.com)
+- [Remoteok](https://remoteok.io/): Specific for remote options.
+- [Remotive](https://remotive.io/): Specific for remote options.
+- [Smart Recruiters](https://jobs.smartrecruiters.com/)
+- [We Work Remotely](https://weworkremotely.com/): Specific for remote options.
+- [Working Nomads](https://www.workingnomads.co/jobs)
 
 **Telegram Channels**
 
 - [NoiceJobs](https://t.me/NoiceJobs): Several Telegram groups with remote positions for different roles and seniorities. 
+- [Relocate Me](https://t.me/relocateme)
 
 **Twitter Accounts**
 
@@ -79,8 +58,10 @@ So, for those that are looking for new challenges, here it is, hope it helps!
 
 - [r/remotejs](https://www.reddit.com/r/remotejs/)
 
-Have you noticed something wrong? 
-Do you have other ideas that can help this document?
-I am truly open for feedback! so feel free to contact me or directly submit a PR into the repository.
+## Contributions ## 
+
+Have you noticed something wrong? </br>
+Do you have other ideas that can help this document? </br>
+Feel free to contact me or directly submit a PR to the repository.
 
 
