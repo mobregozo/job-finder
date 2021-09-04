@@ -42,9 +42,13 @@ const Index: React.FC<IndexProps> = ({ channels }) => {
           platforms and channels where it's possible to find your next IT job.
         </p>
         <div>
+          <h2>Filter by channel</h2>
           {Object.keys(filter).map((fil) => (
             <button
-              className={`filter-button ${!filter[fil].active && ["deselected"]}`}
+              key={fil}
+              className={`filter-button ${
+                !filter[fil].active && ["deselected"]
+              }`}
               onClick={() =>
                 setFilter({ ...filter, [fil]: { active: !filter[fil].active } })
               }
@@ -55,7 +59,7 @@ const Index: React.FC<IndexProps> = ({ channels }) => {
         </div>
         {filter["websites"].active && (
           <div>
-            <h2 className="subtitile">Websites</h2>
+            <h3 className="subtitile">Websites</h3>
             {channels.websites.map((channel) => (
               <ChannelCard channel={channel} key={channel.name} />
             ))}
