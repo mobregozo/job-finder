@@ -1,0 +1,115 @@
+{
+  "websites": [
+    {
+      "name": "Arc",
+      "url": "https://arc.dev/",
+      "description": "Remote developer Jobs."
+    },
+    {
+      "name": "Angel",
+      "url": "https://angel.co",
+      "description": "For startups roles."
+    },
+    { "name": "Authentic Jobs", "url": "https://authenticjobs.com/)" },
+    { "name": "Daily dev Jobs", "url": "https://dailydevjobs.com/)" },
+    { "name": "Daily Remote", "url": "https://dailyremote.com)" },
+    { "name": "Dynamite Jobs", "url": "https://www.dynamitejobs.com/)" },
+    { "name": "Find Work", "url": "https://findwork.dev/)" },
+    { "name": "Flexjobs", "url": "https://flexjobs.com/)" },
+    { "name": "Hired", "url": "https://hired.com)" },
+    { "name": "Hnhiring", "url": "https://hnhiring.com/)" },
+    {
+      "name": "Honeypot",
+      "url": "https://www.honeypot.io/",
+      "description": "A platform that lets you create your profile that companies can review. Only Europe. Totally recommend when looking for a relocation to Europe."
+    },
+    { "name": "Job Spresso", "url": "https://jobspresso.co/)" },
+    { "name": "Just Remote", "url": "https://justremote.co/)" },
+    { "name": "Js Remotely", "url": "https://jsremotely.com)" },
+    {
+      "name": "Krop",
+      "url": "https://www.krop.com/creative-jobs/",
+      "description": "Graphic Design Jobs."
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/jobs/",
+      "description": "It sounds trivial or redundant, but it is one of the first places where companies post their open positions."
+    },
+    {
+      "name": "News Ycombinator",
+      "url": "https://news.ycombinator.com/jobs",
+      "description": "From Hacker News, regularly updated. "
+    },
+    {
+      "name": "Producthunt",
+      "url": "https://www.producthunt.com/jobs",
+      "description": "The famous product portal has its own Job board. "
+    },
+    {
+      "name": "Stackoverflow",
+      "url": "https://stackoverflow.com/jobs",
+      "description": "One of my favorites, especially because of the filterings and the alert system they have."
+    },
+    {
+      "name": "Who's hiring",
+      "url": "https://whoishiring.io/",
+      "description": "Love the website! It is an interactive map where you can see the rate of jobs for a specific region on the map."
+    },
+    {
+      "name": "Relocate Me",
+      "url": "https://relocate.me/",
+      "description": "Especially when looking for relocation."
+    },
+    { "name": "Remote.co", "url": "https://remote.co/)" },
+    { "name": "Remote First", "url": "https://remotefirst.digital/)" },
+    { "name": "Remote Leads", "url": "https://remoteleads.io)" },
+    { "name": "Remote Leaf", "url": "https://remoteleaf.com)" },
+    {
+      "name": "Remoteok",
+      "url": "https://remoteok.io/",
+      "description": "Specific for remote options."
+    },
+    {
+      "name": "Remotive",
+      "url": "https://remotive.io/",
+      "description": "Specific for remote options."
+    },
+    { "name": "Smart Recruiters", "url": "https://jobs.smartrecruiters.com/)" },
+    {
+      "name": "We Work Remotely",
+      "url": "https://weworkremotely.com/",
+      "description": "Specific for remote options."
+    },
+    { "name": "Working Nomads", "url": "https://www.workingnomads.co/jobs)" }
+  ],
+  "telegram": [
+    {
+      "name": "NoiceJobs",
+      "url": "https://t.me/NoiceJobs",
+      "description": "Several Telegram groups with remote positions for different roles and seniorities."
+    },
+    { "name": "Relocate Me", "url": "https://t.me/relocateme" }
+  ],
+  "twitter": [
+    { "name": "Javascriptjobbs", "url": "https://twitter.com/Javascriptjobbs" },
+    { "name": "All JavaScript Jobs", "url": "https://twitter.com/alljsjobs" },
+    { "name": "ITlanguagejobs", "url": "https://twitter.com/ITlanguagejobs" },
+    { "name": "wfhio", "url": "https://twitter.com/wfhio" },
+    { "name": "EuRemote", "url": "https://twitter.com/EuRemote" },
+    { "name": "workingnomads", "url": "https://twitter.com/workingnomads" },
+    { "name": "weworkremotely", "url": "https://twitter.com/weworkremotely" },
+    { "name": "GitHubJobs", "url": "https://twitter.com/GitHubJobs" },
+    { "name": "StackDevJobs", "url": "https://twitter.com/StackDevJobs" },
+    { "name": "RemoteOK", "url": "https://twitter.com/RemoteOK" },
+    { "name": "WorldwideJs", "url": "https://twitter.com/WorldwideJs" },
+    { "name": "angularjobs", "url": "https://twitter.com/angularjobs" },
+    { "name": "React Jobs", "url": "https://twitter.com/42jobs_react" },
+    { "name": "VuejsJob", "url": "https://twitter.com/VuejsJob" },
+    { "name": "first_remote", "url": "https://twitter.com/first_remote" }
+  ],
+
+  "subreddits": [
+    { "name": "remotejs", "url": "https://www.reddit.com/r/remotejs/)" }
+  ]
+}

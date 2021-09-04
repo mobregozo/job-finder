@@ -1,0 +1,8 @@
+
+.cardContainer{
+    border: soid 1px gray;
+    padding: 16px;
+    box-shadow: 1px 1px 1px 1px black;
+    margin-bottom: 8px;
+    border-radius: 8px;
+}

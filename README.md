@@ -3,10 +3,13 @@
 
 List of websites and social-media accounts to check when looking for a new job.
 
+- [Arc](https://arc.dev/): Remote developer Jobs.
 - [Angel](https://angel.co): For startups roles.
 - [Authentic Jobs](https://authenticjobs.com/)
 - [Daily dev Jobs](https://dailydevjobs.com/)
 - [Daily Remote](https://dailyremote.com)
+- [Dynamite Jobs](https://www.dynamitejobs.com/)
+- [Find Work](https://findwork.dev/)
 - [Flexjobs](https://flexjobs.com/)
 - [Hired](https://hired.com)
 - [Hnhiring](https://hnhiring.com/)
@@ -63,5 +66,9 @@ List of websites and social-media accounts to check when looking for a new job.
 Have you noticed something wrong? </br>
 Do you have other ideas that can help this document? </br>
 Feel free to contact me or directly submit a PR to the repository.
+- Add the Website to the readme file and the corresponding index.tsx so the data is shown in the website as well.
 
 
+
+
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
