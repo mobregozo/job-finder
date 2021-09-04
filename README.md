@@ -68,7 +68,7 @@ Do you have other ideas that can help this document? </br>
 Feel free to contact me or directly submit a PR to the repository.
 - Add the Website to the readme file and the corresponding index.tsx so the data is shown in the website as well.
 
+## Run the project
 
-
-
+`npm run dev`
 This is a starter template for [Learn Next.js](https://nextjs.org/learn).

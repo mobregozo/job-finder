@@ -1,10 +1,11 @@
 import { GetStaticProps } from "next";
 import Head from "next/head";
+import { useEffect, useState } from "react";
 import ChannelCard from "../components/ChannelCard";
 
 export type Channel = {
   name: string;
-  desciprition?: string;
+  description?: string;
   tags?: string[];
   url: string;
 };
@@ -20,6 +21,13 @@ type IndexProps = {
 };
 
 const Index: React.FC<IndexProps> = ({ channels }) => {
+  const [filter, setFilter] = useState({
+    websites: { active: true },
+    twitter: { active: true },
+    telegram: { active: true },
+    subreddit: { active: true },
+  });
+
   return (
     <div className="container">
       <Head>
@@ -31,12 +39,52 @@ const Index: React.FC<IndexProps> = ({ channels }) => {
         <h1 className="title">Welcome to Job Finder!</h1>
         <p>
           The main idea of the website is to provide different websites,
-          platforms and channels where.
+          platforms and channels where it's possible to find your next IT job.
         </p>
-        Subreddits
-        {channels.subreddits.map((channel) => (
-          <ChannelCard channel={channel} key={channel.name} />
-        ))}
+        <div>
+          {Object.keys(filter).map((fil) => (
+            <button
+              className={`filter-button ${!filter[fil].active && ["deselected"]}`}
+              onClick={() =>
+                setFilter({ ...filter, [fil]: { active: !filter[fil].active } })
+              }
+            >
+              {fil}
+            </button>
+          ))}
+        </div>
+        {filter["websites"].active && (
+          <div>
+            <h2 className="subtitile">Websites</h2>
+            {channels.websites.map((channel) => (
+              <ChannelCard channel={channel} key={channel.name} />
+            ))}
+          </div>
+        )}
+        {filter["twitter"].active && (
+          <div>
+            <h2 className="subtitile">Twitter Accounts</h2>
+            {channels.twitter.map((channel) => (
+              <ChannelCard channel={channel} key={channel.name} />
+            ))}
+          </div>
+        )}
+        {filter["telegram"].active && (
+          <div>
+            <h2 className="subtitile">Telegram groups</h2>
+            {channels.telegram.map((channel) => (
+              <ChannelCard channel={channel} key={channel.name} />
+            ))}
+          </div>
+        )}
+        {filter["subreddit"].active && (
+          <div>
+            <h2 className="subtitile">Subreddits</h2>
+            {channels.subreddits.map((channel) => (
+              <ChannelCard channel={channel} key={channel.name} />
+            ))}
+          </div>
+        )}
       </main>
     </div>
   );

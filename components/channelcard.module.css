@@ -1,8 +1,27 @@
+.cardContainer {
+  border: soid 1px gray;
+  color: var(--main-color);
+  text-decoration: none;
+  padding: 16px;
+  background-color: white;
+  box-shadow: 1px 1px 1px 1px var(--secondary-color);
+  margin: 8px 0;
+  border-radius: 8px;
+  display: block;
+  transition: transform 0.1s ease-out;
+}
 
-.cardContainer{
-    border: soid 1px gray;
-    padding: 16px;
-    box-shadow: 1px 1px 1px 1px black;
-    margin-bottom: 8px;
-    border-radius: 8px;
+.cardContainer:hover {
+  transform: scale(1.01);
+  cursor: pointer;
+}
+
+.cardName {
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+.cardDescription {
+  font-size: 0.8rem;
+  margin: 4px 0;
 }

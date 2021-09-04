@@ -1,3 +1,51 @@
+:root {
+  --main-color: #040303ff;
+  --secondary-color: #3a4e48ff;
+  --tertiary-color: #bbccc7;
+}
+html,
 body {
-    color: red;
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: var(--tertiary-color);
+  color: var(--main-color);
+  font-size: 1rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+@media (max-width: 900px) {
+  body {
+    padding: 0 16px;
+    width: 100%;
+    max-width: 100%;
+  }
+}
+
+.subtitile {
+  font-size: 1.5rem;
+}
+
+.filter-button {
+  margin-right: 8px;
+  background-color: var(--main-color);
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  padding: 4px 8px;
+}
+
+.filter-button:hover {
+  opacity: 0.8;
+}
+
+.filter-button.deselected {
+  background-color: var(--secondary-color);
+  color: grey;
 }
