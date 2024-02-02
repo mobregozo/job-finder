@@ -14,10 +14,12 @@ List of websites and social-media accounts to check when looking for a new job.
 - [Daily Remote](https://dailyremote.com)
 - [Dynamite Jobs](https://www.dynamitejobs.com/)
 - [Find Work](https://findwork.dev/)
+- [Fiver](https://www.fiverr.com/): Freelancing remote opportunities.
 - [Flexjobs](https://flexjobs.com/)
 - [Hired](https://hired.com)
 - [Hnhiring](https://hnhiring.com/)
 - [Honeypot](https://www.honeypot.io/): A platform that lets you create your profile that companies can review. Only Europe. Totally recommend when looking for a relocation to Europe.
+- [Indeed](indeed.com): Well evolved platform, nice filters and alerts. A bit tedious to setup. 
 - [Job Spresso](https://jobspresso.co/)
 - [Just Remote](https://justremote.co/)
 - [Js Remotely](https://jsremotely.com)
@@ -40,6 +42,12 @@ List of websites and social-media accounts to check when looking for a new job.
 - [Startup Jobs](https://startup.jobs/): Remote positions.
 - [We Work Remotely](https://weworkremotely.com/): Specific for remote options.
 - [Working Nomads](https://www.workingnomads.co/jobs)
+
+**Network for freelancers**
+
+- [Freelancer](https://www.freelancer.com): You have to create your profile, get references, and interview to getin. Networking is important in here.
+- [Toptal](https://www.toptal.com/)
+- [Upwork](https://www.upwork.com/)
 
 **Telegram Channels**
 
